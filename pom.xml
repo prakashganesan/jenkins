@@ -9,7 +9,7 @@
 	<packaging>war</packaging>
 
 	<name>devops</name>
-	<description>DevOPS prakash demo project</description>
+	<description>DevOPS demo project</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>

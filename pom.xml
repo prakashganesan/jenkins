@@ -25,7 +25,7 @@
 		<surefire.version>2.17</surefire.version>
 		<jacoco.version>0.7.9</jacoco.version>
 	</properties>
-
+	<!--
 	<distributionManagement>
 		<repository>
 			<id>release</id>
@@ -38,7 +38,7 @@
 			<url>http://52.179.154.154:8081/artifactory/libs-snapshot-local</url>
 		</snapshotRepository>
 	</distributionManagement>
-
+	-->
 	<scm>
 		<connection>scm:git:git@github.com:prakashganesan/jenkins.git</connection>
 		<developerConnection>scm:git:git@github.com:prakashganesan/jenkins.git</developerConnection>
